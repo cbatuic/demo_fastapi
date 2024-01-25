@@ -68,3 +68,7 @@ uvicorn main:app --reload
 - 5.4 Try It Out! /api/users/{user_id}
 
 Done. Great Job! 🎉
+
+# Demo Preview
+
+![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_preview.gif)
