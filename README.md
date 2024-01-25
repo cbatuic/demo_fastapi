@@ -54,6 +54,18 @@ git clone https://github.com/cbatuic/demo_fastapi.git
 ```
 
 ### 4.2 Verify Database Configuration in models/db.py
+```python
+# model/db.py
+import mysql.connector
+
+db_config = {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "database": "your_db_name_here",
+    "port": 3306,
+}
+```
 
 # 5. Test the FastAPI Routers
 
