@@ -76,8 +76,12 @@ uvicorn main:app --reload
 
 ## 5.2 Open FastAPI Docs in Browser
 - Visit http://127.0.0.1:8000/docs
-- 5.3 Try It Out! /api/users Route
-- 5.4 Try It Out! /api/users/{user_id}
+
+### 5.3 Try It Out! /api/users Route
+- See Demo Preview
+  
+### 5.4 Try It Out! /api/users/{user_id}
+- See Demo Preview
 
 Done. Great Job! 🎉
 
