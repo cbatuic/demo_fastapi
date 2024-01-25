@@ -50,7 +50,7 @@ uvicorn main:app --reload
 
 ### 4.1 Clone GitHub Repository
 ```bash
-[git clone https://github.com/cbatuic](https://github.com/cbatuic/demo_fastapi.git)
+git clone https://github.com/cbatuic/demo_fastapi.git
 ```
 
 ### 4.2 Verify Database Configuration in models/db.py
