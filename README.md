@@ -44,11 +44,11 @@ uvicorn main:app --reload
 - username: VARCHAR(100)
 - password: VARCHAR(200)
 
-![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_3_3.gif)
+![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_3_3_1.gif)
 
 ### 3.4 Insert Dummy Users Data (At Least 5 Records)
 
-![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_3_4.gif)
+![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_3_4_1.gif)
 
 ## 4. Setup FastAPI Routers for Table Users
 
