@@ -26,8 +26,8 @@ pip install fastapi uvicorn mysql-connector-python
 ```
 > This Python code is using the pip package manager to install three Python packages: fastapi, uvicorn, and mysql-connector-python. Here's a breakdown of each package:
 >> FastAPI: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
-    Uvicorn: Uvicorn is an ASGI (Asynchronous Server Gateway Interface) server that is used to run FastAPI applications. It provides fast performance and supports asynchronous code.
-    mysql-connector-python: This package is a MySQL database connector for Python. It allows Python programs to connect to and interact with MySQL databases.
+>> Uvicorn: Uvicorn is an ASGI (Asynchronous Server Gateway Interface) server that is used to run FastAPI applications. It provides fast performance and supports asynchronous code.
+>> mysql-connector-python: This package is a MySQL database connector for Python. It allows Python programs to connect to and interact with MySQL databases.
 
 By running this command, you're installing these packages, making them available for use in your Python environment.
 ### 2.2 Run FastAPI
