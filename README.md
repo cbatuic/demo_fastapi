@@ -8,12 +8,12 @@ This guide provides step-by-step instructions to set up a project with Miniconda
 - Download Miniconda from [Miniconda Website](https://docs.conda.io/en/latest/miniconda.html)
 - Follow installation instructions for your operating system.
 
-### 1.2 Create Conda Environment
+### 1.2 Create Conda Python Environment
 ```bash
-conda create --name your_env_name
+conda create --name your_env_name python=3.9
 ```
 
-### 1.3 Activate Conda Environment
+### 1.3 Activate Conda Python Environment
 ```bash
 conda activate your_env_name
 ```
