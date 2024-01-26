@@ -41,8 +41,8 @@ uvicorn main:app --reload
 
 ### 3.3 Create Table "users" with Three Columns
 - id: Primary Key, Auto Increment
-- username: VARCHAR(100)
-- password: VARCHAR(200)
+- username: VARCHAR(50)
+- password: VARCHAR(255)
 
 ![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_3_3_1.png)
 
