@@ -7,6 +7,9 @@ This guide provides step-by-step instructions to set up a project with Miniconda
 ### 1.1 Download and Install Miniconda
 - Download Miniconda from [Miniconda Website](https://docs.conda.io/en/latest/miniconda.html)
 - Follow installation instructions for your operating system.
+- Once installed, open the Miniconda Command Prompt
+
+![Demo Preview](https://raw.githubusercontent.com/cbatuic/demo_fastapi/main/fastapi_demo_1_1_1.png)
 
 ### 1.2 Create Conda Python Environment
 ```bash
